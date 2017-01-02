@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3082" started-at="2016-12-30T10:42:11Z" finished-at="2016-12-30T10:42:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3082" started-at="2016-12-30T10:42:11Z" finished-at="2016-12-30T10:42:14Z">
+      <class name="APITesting.com.org.api.WeatherAPITestCases">
+        <test-method status="PASS" signature="Test_01_Get_Weather_By_Country_And_CityName_With_An_InValidToken_ExpectedResponse_401()[pri:0, instance:APITesting.com.org.api.WeatherAPITestCases@68be2bc2]" name="Test_01_Get_Weather_By_Country_And_CityName_With_An_InValidToken_ExpectedResponse_401" duration-ms="1782" started-at="2016-12-30T10:42:11Z" finished-at="2016-12-30T10:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01_Get_Weather_By_Country_And_CityName_With_An_InValidToken_ExpectedResponse_401 -->
+        <test-method status="PASS" signature="Test_01_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200()[pri:0, instance:APITesting.com.org.api.WeatherAPITestCases@68be2bc2]" name="Test_01_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200" duration-ms="250" started-at="2016-12-30T10:42:12Z" finished-at="2016-12-30T10:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200 -->
+        <test-method status="PASS" signature="Test_03_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200()[pri:0, instance:APITesting.com.org.api.WeatherAPITestCases@68be2bc2]" name="Test_03_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200" duration-ms="208" started-at="2016-12-30T10:42:13Z" finished-at="2016-12-30T10:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_03_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200 -->
+        <test-method status="PASS" signature="Test_04_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200()[pri:0, instance:APITesting.com.org.api.WeatherAPITestCases@68be2bc2]" name="Test_04_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200" duration-ms="237" started-at="2016-12-30T10:42:13Z" finished-at="2016-12-30T10:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_04_Get_Weather_By_Country_And_CityName_With_ValidToken_ExpectedResponseCode_200 -->
+        <test-method status="PASS" signature="Test_05_Get_Weather_By_Country_And_CityName_With_InValidToken_ExpectedResponseCode_401()[pri:0, instance:APITesting.com.org.api.WeatherAPITestCases@68be2bc2]" name="Test_05_Get_Weather_By_Country_And_CityName_With_InValidToken_ExpectedResponseCode_401" duration-ms="178" started-at="2016-12-30T10:42:13Z" finished-at="2016-12-30T10:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_05_Get_Weather_By_Country_And_CityName_With_InValidToken_ExpectedResponseCode_401 -->
+        <test-method status="PASS" signature="Test_06_Get_Weather_By_Country_And_CityName_With_ValidToken_And_GetResponse()[pri:0, instance:APITesting.com.org.api.WeatherAPITestCases@68be2bc2]" name="Test_06_Get_Weather_By_Country_And_CityName_With_ValidToken_And_GetResponse" duration-ms="172" started-at="2016-12-30T10:42:13Z" finished-at="2016-12-30T10:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_06_Get_Weather_By_Country_And_CityName_With_ValidToken_And_GetResponse -->
+        <test-method status="PASS" signature="Test_07_Get_Weather_By_CityID_With_ValidToken_And_GetResponse()[pri:0, instance:APITesting.com.org.api.WeatherAPITestCases@68be2bc2]" name="Test_07_Get_Weather_By_CityID_With_ValidToken_And_GetResponse" duration-ms="231" started-at="2016-12-30T10:42:14Z" finished-at="2016-12-30T10:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_07_Get_Weather_By_CityID_With_ValidToken_And_GetResponse -->
+      </class> <!-- APITesting.com.org.api.WeatherAPITestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
